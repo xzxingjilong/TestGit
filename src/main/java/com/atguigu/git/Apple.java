@@ -8,6 +8,7 @@ public class Apple {
 		System.out.println("hot fix ...");
 		System.out.println("right...。。");
 		System.out.println("master...。。");
+		System.out.println("hand...。。");
 	}
 
 }
