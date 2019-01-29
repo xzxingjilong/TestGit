@@ -9,6 +9,7 @@ public class Apple {
 		System.out.println("right...。。");
 		System.out.println("branch-bug...。。");
 		System.out.println("branch-bug 2...。。");
+		System.out.println("branch-bug 3...。。");
 	}
 
 }
